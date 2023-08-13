@@ -6,8 +6,8 @@ The badge holder is still being developed and improved; your product might look 
 # **Overview**
 
 The Badge Holder Plus is a DYI product aimed to have all the individual badging needs in one place, specifically for those individuals with a special program badge. It is packed with optional features and colors so you can have the one that better suits your needs. Main features include carrying your main badge, carrying your special program badge and a backpack to carry two additional cards. All parts are 3D Printed in ABS or PETG (based on availability) plastic with an Original Prusa i3 Mk3S+ or a Voron 2.4 3D Printer. All the parts are designed using Autodesk Fusion 360.
-![Overview](https://github.com/jat08/Badge-Holder/assets/25801103/d59b63d9-7b59-4d58-ab80-3b0da0d69ab1)
 
+![Overview](https://github.com/jat08/Badge-Holder/assets/25801103/d59b63d9-7b59-4d58-ab80-3b0da0d69ab1)
 
 The full product information, as well as the assembly instructions, can be seen **[HERE](https://github.com/jat08/Badge-Holder/blob/main/Badge%20Holder%20Plus.pdf)**.
 
